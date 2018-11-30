@@ -1,64 +1,64 @@
 ﻿[
     {
         "Congressman": "Alexander López Maya",
-        "Title": "Las variaciones porcentuales para este congresista entre el 2015 y 2014 fueron",
         "type": "Alexander López Maya",
+        "Foto": "https://pbs.twimg.com/profile_images/1059948414924918789/HXhs71lV_400x400.jpg",
         "Suma_Rentas": 0.232127496000166,
         "Total_Impuesto_a_Cargo": 0.541918781420272,
         "Total_Patrimonio_Liquido": 0.234735847048586
     },
     {
         "Congressman": "Angelica Lozano",
-        "Title": "Las variaciones porcentuales para este congresista entre el 2015 y 2014 fueron",
         "type": "Angelica Lozano",
+        "Foto": "https://pbs.twimg.com/profile_images/1058477521396813826/CM1-wBwu_400x400.jpg",
         "Suma_Rentas": 1.41865848325366,
         "Total_Impuesto_a_Cargo": 1.21123436393675,
         "Total_Patrimonio_Liquido": 0.994305914228864
     },
     {
         "Congressman": "Doris Vega",
-        "Title": "Las variaciones porcentuales para este congresista entre el 2015 y 2014 fueron",
         "type": "Doris Vega",
+        "Foto": "http://congresovisible.org/media/uploads/fotos_perfil/4993/foto-perfil.jpg",
         "Suma_Rentas": 0.12252092531665,
         "Total_Impuesto_a_Cargo": -8.8187908081061e-004,
         "Total_Patrimonio_Liquido": -1.52901270446507e-002
     },
     {
         "Congressman": "Guillermina Bravo",
-        "Title": "Las variaciones porcentuales para este congresista entre el 2015 y 2014 fueron",
         "type": "Guillermina Bravo",
+        "Foto": "http://congresovisible.org/media/uploads/fotos_perfil/8112/avatar_camara.png",
         "Suma_Rentas": 0,
         "Total_Impuesto_a_Cargo": 4.49985748218527,
         "Total_Patrimonio_Liquido": 0.83994971315249
     },
     {
         "Congressman": "Ivan Cepeda Castro",
-        "Title": "Las variaciones porcentuales para este congresista entre el 2015 y 2014 fueron",
         "type": "Ivan Cepeda Castro",
+        "Foto": "https://pbs.twimg.com/profile_images/943685188655173632/txXjHiI5_400x400.jpg",
         "Suma_Rentas": -0.479053923341548,
         "Total_Impuesto_a_Cargo": 0.168216964800923,
         "Total_Patrimonio_Liquido": 0.2390649898924
     },
     {
         "Congressman": "Jorge Enrique Robledo",
-        "Title": "Las variaciones porcentuales para este congresista entre el 2015 y 2014 fueron",
         "type": "Jorge Enrique Robledo",
+        "Foto": "https://pbs.twimg.com/profile_images/981227456643457024/X5VYI8hv_400x400.jpg",
         "Suma_Rentas": 5.6416784997307e-002,
         "Total_Impuesto_a_Cargo": 8.96313671644069e-002,
         "Total_Patrimonio_Liquido": 0.307926661540098
     },
     {
         "Congressman": "Olga Lucia Velásquez",
-        "Title": "Las variaciones porcentuales para este congresista entre el 2015 y 2014 fueron",
         "type": "Olga Lucia Velásquez",
+        "Foto": "https://pbs.twimg.com/profile_images/1053386103573618688/PEbeYTjy_400x400.jpg",
         "Suma_Rentas": -0.420449449015928,
         "Total_Impuesto_a_Cargo": 0.654394757131843,
         "Total_Patrimonio_Liquido": 0.240168666052547
     },
     {
         "Congressman": "Paola Agudelo",
-        "Title": "Las variaciones porcentuales para este congresista entre el 2015 y 2014 fueron",
         "type": "Paola Agudelo",
+        "Foto": "https://pbs.twimg.com/profile_images/1043888096004243457/ekt9Gg1A_400x400.jpg",
         "Suma_Rentas": 1.24140533288613,
         "Total_Impuesto_a_Cargo": 0.979749675286338,
         "Total_Patrimonio_Liquido": 2.42027003176844
